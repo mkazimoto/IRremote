@@ -1,15 +1,15 @@
 {
-  "name": "IRremote",
-  "keywords": "infrared, ir, remote",
-  "description": "Send and receive infrared signals with multiple protocols",
+  "name": "IRremoteMultiple",
+  "keywords": "infrared, ir, remote, multiple",
+  "description": "Send and receive infrared signals with multiple protocols and multiple sensors",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/z3t0/Arduino-IRremote.git"
+    "url": "https://https://github.com/mkazimoto/IRremoteMultiple.git"
   },
   "version": "2.6.1",
   "frameworks": "arduino",
-  "platforms": "atmelavr",
+  "platforms": "esp32",
   "authors" :
   [
      {
